@@ -1,0 +1,53 @@
+body{
+    background-image: url(https://i.pinimg.com/564x/42/44/52/424452f1786f11d9b440f2b335c377f6.jpg);
+}
+
+h1{
+    font-size: 50px;
+    color: darkorchid;
+    text-align: center;
+    background: url(https://i.pinimg.com/564x/ac/4e/d0/ac4ed0862777c092c88d1e092a134207.jpg);
+    border-radius: 20px;
+}
+
+.busca{
+    display: block;
+    margin: 20px;
+    width: 40%;
+    height: 30px;
+    border-radius: 20px;
+    padding: 5px 5px 5px 5px;
+}
+
+button{
+    margin: 20px;
+    width: 40%;
+    height: 30px;
+    border-radius: 20px;
+    padding: 5px 5px 5px 5px;
+    background-image: url(https://i.pinimg.com/564x/bb/d9/e2/bbd9e22e55ca9dc83c0f701fcdc63185.jpg);
+    border: 2px solid black;
+}
+
+.usuario{
+    text-align: center;
+    margin: 20px auto;
+}
+
+.name{
+    display:block;
+    font-size: 60px;
+    background: url(https://i.pinimg.com/564x/ac/4e/d0/ac4ed0862777c092c88d1e092a134207.jpg);
+    border-radius: 20px;
+    margin: 20px auto;
+}
+
+.user{
+    font-size: 40px;
+    margin:20px auto;
+}
+
+img{
+    width: 60%;
+    margin: 20px;
+}
